@@ -1,2 +1,2 @@
-# DL_Exercises_College
+# DL Ex 
 Deep learning exercises for image data
